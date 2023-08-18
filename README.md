@@ -69,9 +69,9 @@ This is a simple register app built using React Native. The project was created 
 
 Open the register-app. Registered user data are stored on the server. You can manage registered users in the admin tab.
 <div>
-  <img src="https://github.com/piechnikk/register-app/assets/51060535/bf43a13e-bb77-414b-8f4e-e1c370ed6d86" alt="home" width="33%"/>
-  <img src="https://github.com/piechnikk/register-app/assets/51060535/b3da7b6c-603f-4348-88b9-a083b64ad291" alt="users list" width="33%"/>
-  <img src="https://github.com/piechnikk/register-app/assets/51060535/1d20858e-e3da-4144-afb8-48faa9f0fb37" alt="details" width="33%"/>
+  <img src="https://github.com/piechnikk/register-app/assets/51060535/bf43a13e-bb77-414b-8f4e-e1c370ed6d86" alt="home" width="30%"/>
+  <img src="https://github.com/piechnikk/register-app/assets/51060535/b3da7b6c-603f-4348-88b9-a083b64ad291" alt="users list" width="30%"/>
+  <img src="https://github.com/piechnikk/register-app/assets/51060535/1d20858e-e3da-4144-afb8-48faa9f0fb37" alt="details" width="30%"/>
 </div>
 
 ## Technologies
